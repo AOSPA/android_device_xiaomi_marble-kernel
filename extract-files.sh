@@ -13,7 +13,7 @@ MY_DIR="${BASH_SOURCE%/*}"
 SRC_ROOT="${MY_DIR}/../../.."
 TMP_DIR=$(mktemp -d)
 EXTRACT_KERNEL=true
-declare -a MODULE_FOLDERS=("vendor_ramdisk" "vendor_dlkm" "system_dlkm")
+declare -a MODULE_FOLDERS=("vendor_ramdisk" "vendor_dlkm")
 DTB_PATTERN="Qualcomm_Technologies,_Inc._Ukee_SoC"
 DTBO_PATTERN="Marble_based_on_Qualcomm_Technologies,_Inc_SM7475"
 
