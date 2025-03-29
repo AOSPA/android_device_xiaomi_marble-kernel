@@ -719,6 +719,8 @@ alias of:N*T*Cqcom,qfprom nvmem_qfprom
 alias of:N*T*Cqcom,qfpromC* nvmem_qfprom
 alias of:N*T*Cqcom,ravelin-qfprom nvmem_qfprom
 alias of:N*T*Cqcom,ravelin-qfpromC* nvmem_qfprom
+alias of:N*T*Cqcom,parrot-qfprom nvmem_qfprom
+alias of:N*T*Cqcom,parrot-qfpromC* nvmem_qfprom
 alias of:N*T*Cqcom,spmi-sdam nvmem_qcom_spmi_sdam
 alias of:N*T*Cqcom,spmi-sdamC* nvmem_qcom_spmi_sdam
 alias of:N*T*Cqcom,bcm-voter icc_bcm_voter
